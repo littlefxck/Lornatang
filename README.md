@@ -1,0 +1,2 @@
+# Lornatang
+Numpy implements BGD
